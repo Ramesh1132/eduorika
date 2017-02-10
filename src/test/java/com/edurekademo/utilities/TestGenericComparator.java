@@ -32,6 +32,7 @@ public class TestGenericComparator
                 UnitDTO d5 = new UnitDTO(); 
                 d5.setDeptID(100);d5.setEmpID(110);d5.setEmpName("Asma");d5.setSpare(new Double(10.0));d5.setSpare2(new Double(10.0));
                 myData.add(d1); myData.add(d2); myData.add(d3); myData.add(d4); myData.add(d5); 
+                myData.add(d1); myData.add(d2); myData.add(d3); myData.add(d4); myData.add(d5);
 
         }
         public void initialize2(ArrayList myData) { 
