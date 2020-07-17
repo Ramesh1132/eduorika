@@ -1,4 +1,2 @@
-hellow how are you 
-i am fine 
-what are doing 
-ijdhgfagfiuaufg
+hello
+modifying the file
